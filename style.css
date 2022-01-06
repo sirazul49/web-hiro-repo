@@ -1,0 +1,45 @@
+.ami{
+    color: brown;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+
+}
+.half-width img{
+width:80%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: chartreuse;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: -moz-linear-gradient(orange tomato);
+    color: cornsilk;
+    font-weight: 700;
+    margin-top:20px ;
+
+}
+.experience-item{
+    box-shadow:10px 10px 30px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+}
+#web-developer{
+    border-image: linear-gradiant(blue,cyan);
+    border-image-slice: 1;
+    border-left: 7px solid;
+}
+#full-stack{
+    border-image: linear-gradiant(blue,cyan);
+    border-image-slice: 1;
+    border-left: 7px solid
+}
+footer p{
+    text-align: center;
+}
